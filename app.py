@@ -56,9 +56,9 @@ submit1 = st.button("Tell Me About the Resume")
 submit3 = st.button("Percentage Match")
 
 input_prompt1 = """
- You are an experienced Technical Human Resource Manager. Your task is to review the provided resume against the job description. 
- Please share your professional evaluation on whether the candidate's profile aligns with the role. Highlight the strengths and 
- weaknesses of the applicant in relation to the specified job requirements.
+You are an experienced Technical Human Resource Manager. Your task is to review the provided resume against the job description. 
+Please share your professional evaluation on whether the candidate's profile aligns with the role. Highlight the strengths and 
+weaknesses of the applicant in relation to the specified job requirements.
 """
 
 input_prompt3 = """
